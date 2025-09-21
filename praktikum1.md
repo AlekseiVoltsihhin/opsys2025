@@ -1,3 +1,5 @@
+Praktikum 1 aruanne
+
 Praktikumi käigus paigaldasin enda läpakale Virtualbox tarkvara, sinna sisse lõin uue virtuaalmasina ja paigaldasin sinna sisse eestikeelse Windows 11 operatsioonisüsteemi. Aega kulus umbes 6 tundi.
 
 <img width="1855" height="1065" alt="Details" src="https://github.com/user-attachments/assets/23c12f33-342e-4b14-a497-2a1428ea882e" />
