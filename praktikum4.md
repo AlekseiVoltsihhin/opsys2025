@@ -16,7 +16,8 @@
 4-5
 <img width="1161" height="1135" alt="Ulesanne4-5" src="https://github.com/user-attachments/assets/036738d7-d26d-4810-9afe-6c890c15cb13" />
 
-4-6 \n
+4-6
+
 Microsofti arvates peaksin häälestama OneDrive'i failitaastesuvandid lunavararünnaku korral.
 
 4-7
