@@ -1,4 +1,6 @@
-# Praktikum 4
+# Praktikum 4 - Windowsi seadistus ja turvalisus
+
+Praktikumi jooksul uurisin Windows 11 turvaseadeid ja kasutajate õigusi, katsetasin tavakasutaja ja administraatori kontode erinevusi, muutsin kaustade ligipääsuõigusi, uurisin Event Vieweri logisid.
 
 4-1
 <img width="958" height="1138" alt="Ulesanne4-1" src="https://github.com/user-attachments/assets/9fbfcddc-a823-471e-90f8-38e3e1a925e1" />
