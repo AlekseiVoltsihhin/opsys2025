@@ -25,5 +25,15 @@ Setuid võimaldab programmi käivitamisel kasutada faili omaniku õigusi, mitte 
 Kui setuid on vigane, saab tavaline kasutaja selle kaudu kõrgemaid õigusi.
 
 5.7
-opetaja
-peeter
+Faili võivad kustutada peeter, opetaja ja root kasutajad.
+
+5.8
+file: hinded.txt
+owner: opetaja
+group: opetaja
+user: :rw-
+group : :---
+other : :---
+
+5.9
+Ainult root kasutaja saab muuta (või kustutada) chattr +i failiga faili sisu, sest ainult tema saab eemaldada immuutsuse atribuudi.
