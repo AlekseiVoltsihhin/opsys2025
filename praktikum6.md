@@ -11,3 +11,18 @@
 
 Ülesanne 4.
 <img width="1411" height="426" alt="Ulesanne 4" src="https://github.com/user-attachments/assets/c72bbd45-eb5d-4d25-9d3c-709e7fe80d55" />
+
+Ülesanne 5.
+WM_COMMAND (ID = 273)
+See sõnum tuleb siis, kui kasutaja teeb aknas mingi tegevuse. Näiteks vajutab nuppu või valib menüüst käsu. Failis olid wParam = 2448 ja lParam = 1706384. Need väärtused näitavad, milline nupp või juhtosa saadab sõnumi (wParam) ja millise akna kaudu (lParam). Sõnum saadeti hetkel, kui vajutati nuppu, et põhiaken teaks, et midagi tehti.
+Allikas: https://learn.microsoft.com/en-us/windows/win32/winmsg/about-messages-and-message-queues
+
+WM_CLOSE (ID = 16)
+See sõnum saadetakse, kui kasutaja sulgeb akna. Näiteks vajutades 'X' nupu akna paremas ülanurgas. Kui protsess saab selle sõnumi, käivitab ta oma sulgemisprotsessi. Parameetrid olid wParam = 0, lParam = 0, sest see sõnum ei vaja lisainfot.
+Allikas: https://learn.microsoft.com/en-us/windows/win32/winmsg/wm-close
+
+Suutsin tekitada '???' sõnumeid: 
+522,"???",7864328,35258895 
+19,"???",0,0
+
+
