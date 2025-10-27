@@ -21,6 +21,7 @@
 
 
 Ülesanne 5.
+
 WM_COMMAND (ID = 273)
 See sõnum tuleb siis, kui kasutaja teeb aknas mingi tegevuse. Näiteks vajutab nuppu või valib menüüst käsu. Failis olid wParam = 2448 ja lParam = 1706384. Need väärtused näitavad, milline nupp või juhtosa saadab sõnumi (wParam) ja millise akna kaudu (lParam). Sõnum saadeti hetkel, kui vajutati nuppu, et põhiaken teaks, et midagi tehti.
 Allikas: https://learn.microsoft.com/en-us/windows/win32/winmsg/about-messages-and-message-queues
