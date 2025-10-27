@@ -1,6 +1,7 @@
 # Praktikum 6 - Protsessid ja signaalid
 
 Ülesanne 1.
+
 <img width="807" height="738" alt="Ulesanne 1" src="https://github.com/user-attachments/assets/1f80426a-29a9-4ef9-a4f1-34b1439a6965" />
 
 Ülesanne 2.
