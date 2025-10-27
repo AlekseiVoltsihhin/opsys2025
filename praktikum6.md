@@ -31,7 +31,9 @@ See sõnum saadetakse, kui kasutaja sulgeb akna. Näiteks vajutades 'X' nupu akn
 Allikas: https://learn.microsoft.com/en-us/windows/win32/winmsg/wm-close
 
 Suutsin tekitada '???' sõnumeid: 
+
 522,"???",7864328,35258895 
+
 19,"???",0,0
 
 
