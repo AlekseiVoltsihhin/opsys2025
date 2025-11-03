@@ -39,6 +39,3 @@ ntfs
 
 <img width="808" height="572" alt="linux2" src="https://github.com/user-attachments/assets/b7113365-6751-46bb-8d0c-696bf345a307" />
 
-
-<img width="808" height="572" alt="linux2" src="https://github.com/user-attachments/assets/fcf11948-d499-4b82-8bbc-ce6cf5263b89" />
-
