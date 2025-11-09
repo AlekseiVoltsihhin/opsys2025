@@ -1,4 +1,6 @@
 # Praktikum 8 - Andmete dubleerimine
+Praktikumi ajal tegin RAID 1 süsteemi Windowsis ja Ubuntus, et andmed oleksid turvaliselt peegeldatud. Seadistasin TÜ Nextcloudi failide varundamiseks. Lõpuks proovisin ka OneDrive’i, et faile pilve salvestada.
+
 
 Ülesanne 1
 
