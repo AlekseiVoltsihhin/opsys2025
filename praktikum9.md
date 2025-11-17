@@ -37,6 +37,13 @@ Võrgukoha teadlikkus kogub ja talletab võrgu konfiguratsiooniteavet ja teavita
 
 9.7
 
+<img width="965" height="193" alt="Ulesanne 9 7" src="https://github.com/user-attachments/assets/81d4bdd9-da07-43d0-b6a2-1cb5843c9e79" />
+
+
+9.8
+
+<img width="652" height="294" alt="Screenshot 2025-11-17 235847" src="https://github.com/user-attachments/assets/4fb8b1b8-b2ee-4921-ac6c-e6756d55ecee" />
+
 
 
 
