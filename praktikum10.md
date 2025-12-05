@@ -20,4 +20,5 @@ rce Monitor, Network, TCP Connections          |
 <img width="1641" height="764" alt="Prax 10 Linux" src="https://github.com/user-attachments/assets/390726bb-b730-4622-9f03-94c4d9817978" />
 
 
-![Uploading OS prax 10 Windows.png…]()
+
+<img width="674" height="807" alt="OS prax 10 Windows" src="https://github.com/user-attachments/assets/d6a483db-0c2c-4e3c-8303-15cf80f49002" />
