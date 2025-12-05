@@ -12,3 +12,6 @@
 |                                    | 5.6G vaba (23% free)                                                                                                           |         | df -h /                                                                                                                                                 |                              |
 |                                    | Suurim fail: /swap.img (~4.0 GB), Mahukaim kaust: /snap (12G)                                                                  |         | Käsk 1: sudo find / -type f -printf "%s %p\n" 2>/dev/null \| sort -nr \| head -5  Käsk 2: sudo du -h --max-depth=1 / 2>/dev/null \| sort -hr \| head -5 |                              |
 |                                    | Kõige suurem CPU alamtegevus: id - 99.4% zero puhul ja 98.2% urandom puhul                                                     |         | sha1sum /dev/zero, sha1sum /dev/urandom, top                                                                                                            |                              |
+
+
+<img width="1641" height="764" alt="Prax 10 Linux" src="https://github.com/user-attachments/assets/390726bb-b730-4622-9f03-94c4d9817978" />
