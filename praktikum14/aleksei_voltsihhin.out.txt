@@ -1,0 +1,85 @@
+0.	19:41:09.869	ALGUS:	Aeg: esmaspäev 12.29.2025 19:41 +02:00 Teostaja: Aleksei Voltšihhin
+1.	19:41:09.917	host:	Voltsihhin-W11
+1.	19:41:10.051	PS version:	7.5.3
+1.	19:41:10.053	Windows:	Microsoft Windows 11 Pro Education; Version 10.0.26100; Build 26100
+2.	19:41:10.547	Network:	
+Adapter  IP        Mask                Gateway     DHCP MAC
+-------  --        ----                -------     ---- ---
+Ethernet 10.0.2.15 255.255.255.0 (/24) 10.0.2.2 Enabled 08-00-27-E1-F5-8C
+
+
+3.	19:41:12.547	CPU:	Intel(R) Core(TM) 5 210H
+3.	19:41:12.552	RAM:	7,98 GB
+4.	19:41:12.587	VideoController:	
+Name                               DriverVersion DriverDate          CurrentHorizontalResolution CurrentVerticalResolution
+----                               ------------- ----------          --------------------------- -------------------------
+VirtualBox Graphics Adapter (WDDM) 7.2.2.20484   10.09.2025 03:00:00                        1920                      1043
+
+
+5.	19:41:12.666	Disk sizes:	
+Model         SizeGB
+-----         ------
+VBOX HARDDISK 63,99
+
+
+5.	19:41:12.670	Partitions:	
+DiskIndex Index SizeGB
+--------- ----- ------
+        0     0 0,10
+        0     1 63,17
+        0     2 0,71
+
+
+5.	19:41:12.673	C: free:	
+DeviceID SizeGB FreeGB
+-------- ------ ------
+C:       63,17  30,62
+
+
+6.	19:41:13.920	PCI drivers:	
+DeviceName                           Manufacturer                     DriverVersion
+----------                           ------------                     -------------
+CPU to PCI Bridge                    Intel                            10.0.26100.1150
+High Definition Audio Controller     Microsoft                        10.0.26100.6725
+Intel(R) PRO/1000 MT Desktop Adapter Intel                            8.4.13.0
+PCI to ISA Bridge                    Intel                            10.0.26100.1150
+Standard SATA AHCI Controller        Standard SATA AHCI Controller    10.0.26100.6725
+USB xHCI Compliant Host Controller   Generic USB xHCI Host Controller 10.0.26100.6725
+VirtualBox Graphics Adapter (WDDM)   Oracle Corporation               7.2.2.20484
+VirtualBox Guest Device              Oracle Corporation               7.2.2.20484
+
+
+7.	19:41:13.945	Users:	
+Name               Description                                                                                     LocalAccount Disabled
+----               -----------                                                                                     ------------ --------
+Administrator      Built-in account for administering the computer/domain                                                  True     True
+Aleksei                                                                                                                    True    False
+Aleksei-tava                                                                                                               True    False
+DefaultAccount     A user account managed by the system.                                                                   True     True
+Guest              Built-in account for guest access to the computer/domain                                                True     True
+tootaja1                                                                                                                   True    False
+tootaja2                                                                                                                   True    False
+WDAGUtilityAccount A user account managed and used by the system for Windows Defender Application Guard scenarios.         True     True
+ylemus                                                                                                                     True    False
+
+
+8.	19:41:13.949	Process count:	151
+9.	19:41:13.961	Last 10 processes:	
+Name          PID StartTime
+----          --- ---------
+WmiPrvSE     7840 29.12.2025 19:41:10
+svchost      6300 29.12.2025 19:41:10
+WmiPrvSE     3036 29.12.2025 19:41:10
+WmiPrvSE    10600 29.12.2025 19:41:09
+smartscreen  8320 29.12.2025 19:39:18
+svchost     10572 29.12.2025 19:38:29
+VSSVC       12140 29.12.2025 19:38:29
+svchost      6640 29.12.2025 19:38:08
+svchost      2124 29.12.2025 19:38:07
+svchost      9640 29.12.2025 19:38:07
+
+
+10.	19:41:13.963	DateTime:	29.12.2025 19:41:13
+*.	19:41:13.965	TEHTUD:	4096 ms
+
+
